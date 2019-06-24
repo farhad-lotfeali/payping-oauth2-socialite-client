@@ -36,6 +36,7 @@ class Provider extends AbstractProvider
      */
     protected function getTokenUrl()
     {
+        
         return 'https://oauth.payping.ir/connect/token';
     }
 
